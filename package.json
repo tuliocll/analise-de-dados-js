@@ -1,0 +1,24 @@
+{
+  "name": "tidyjs demo",
+  "version": "1.0.0",
+  "description": "Data analatycs with JS example",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "generate": "node index.js"
+  },
+  "keywords": [
+    "javascript",
+    "data science",
+    "js ds"
+  ],
+  "author": "Tulio Calil",
+  "license": "ISC",
+  "dependencies": {
+    "@tidyjs/tidy": "^2.5.2",
+    "chart.js": "^3.9.1",
+    "chartjs-node-canvas": "^4.1.6",
+    "csvtojson": "^2.0.10",
+    "moment": "^2.29.4"
+  }
+}
