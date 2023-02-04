@@ -1,6 +1,6 @@
 # TidyJS - Analise de dados com Javascript
 
-Aplicação para analise de dados com JS. [Veja o post para saber mais.](https://prensa.li/@tuliocalil/javascript-para-dados-data-analytics-com-js)
+Aplicação para analise de dados com JS. [Veja o post para saber mais.](https://www.tuliocalil.com.br/post/data-analytics-com-javascript)
 
 <div align="center">
 
